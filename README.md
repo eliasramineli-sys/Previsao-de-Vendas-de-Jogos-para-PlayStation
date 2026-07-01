@@ -1,4 +1,4 @@
-# 🎮 Projeto Semantix — Previsão de Vendas de Jogos do PlayStation com Machine Learning
+# 🎮 Previsão de Vendas de Jogos do PlayStation com Machine Learning
 
 ## 📌 Objetivo
 
